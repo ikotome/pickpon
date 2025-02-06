@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  invitation_id: MyText
+  password: MyText
+  effective_date: 2025-02-06
+  vaild_counts: 1
+  accept: 1
+  used_times: 1
+
+two:
+  invitation_id: MyText
+  password: MyText
+  effective_date: 2025-02-06
+  vaild_counts: 1
+  accept: 1
+  used_times: 1
